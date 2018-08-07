@@ -27,17 +27,11 @@ You're reading it! Below I describe how I addressed each rubric point and where 
 ### Explain the Starter Code
 
 #### 1. Explain the functionality of what's provided in `motion_planning.py` and `planning_utils.py`
-motion_planning.py provide all the main fuction include Motion Planning Class and connect fuction
+motion_planning.py provide all the main fuction include Motion Planning Class and connect fuction which used to connect the drone and simulator
 And there is some key fuction in the planning_utils.py ex. A-Star and Purne_path which are used to make the path clear and sumple 
 And here's a lovely image of my results 
 ![Top Down View](./misc/high_up.png)
 
-Here's | A | Snappy | Table
---- | --- | --- | ---
-1 | `highlight` | **bold** | 7.41
-2 | a | b | c
-3 | *italic* | text | 403
-4 | 2 | 3 | abcd
 
 ### Implementing Your Path Planning Algorithm
 
